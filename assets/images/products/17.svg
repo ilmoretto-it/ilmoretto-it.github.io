@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+<rect width="300" height="400" fill="#E9E4DD"/>
+<circle cx="244" cy="54" r="22" fill="#A98D6C" opacity=".18"/>
+<path d="M55 226c40 3 58-13 84-65l32 38c18 21 54 19 84 23 13 2 24 16 24 31 0 19-13 31-38 31H71c-42 0-55-54-16-58z" fill="#232323"/><path d="M96 232h138" stroke="#A98D6C" stroke-width="5"/>
+<text x="20" y="365" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#232323">ILMORETTO-IT</text>
+<text x="20" y="383" font-family="Georgia,serif" font-size="11" fill="#232323">Mono Runner</text>
+</svg>
