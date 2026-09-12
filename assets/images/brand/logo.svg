@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140">
-<path d="M217 37c4-19 33-21 41-5 7 15-2 25-13 35v7M245 74c-22 24-54 38-88 54M245 74c22 24 54 38 88 54" fill="none" stroke="#a1844b" stroke-width="4" stroke-linecap="round"/>
-<text x="230" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#111">ILMORETTO-IT</text>
-<text x="230" y="127" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" letter-spacing="5" fill="#666">WEAR LESS NOISE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-label="ILMORETTO-IT logo">
+<rect width="520" height="150" rx="4" fill="#fffdf8"/>
+<path d="M235 28c4-21 35-23 44-6 8 16-2 28-14 38v8M265 68c-24 27-60 43-98 60M265 68c24 27 60 43 98 60" fill="none" stroke="#a1844b" stroke-width="4" stroke-linecap="round"/>
+<text x="260" y="111" text-anchor="middle" font-family="Georgia,serif" font-size="34" letter-spacing="1" fill="#111">ILMORETTO-IT</text>
+<text x="260" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="5" fill="#666">WEAR LESS NOISE</text>
 </svg>
