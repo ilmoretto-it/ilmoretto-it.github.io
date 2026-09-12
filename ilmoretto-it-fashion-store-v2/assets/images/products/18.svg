@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+<rect width="300" height="400" fill="#EFEAE1"/>
+<circle cx="244" cy="54" r="22" fill="#8E7C62" opacity=".18"/>
+<circle cx="150" cy="190" r="86" fill="#181818"/><path d="M98 177c22-48 81-55 110-12" fill="none" stroke="#8E7C62" stroke-width="10"/>
+<text x="20" y="365" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#181818">ILMORETTO-IT</text>
+<text x="20" y="383" font-family="Georgia,serif" font-size="11" fill="#181818">Low Profile Cap</text>
+</svg>
